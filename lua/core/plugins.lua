@@ -22,7 +22,7 @@ return require('packer').startup(function(use)
   use 'hrsh7th/cmp-nvim-lsp'
   use 'L3MON4D3/LuaSnip'
   use {
-    'williamboman/masonsource %.nvim',
+    'williamboman/mason.nvim',
     'williamboman/mason-lspconfig.nvim',
     "neovim/nvim-lspconfig"
   }
