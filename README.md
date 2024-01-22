@@ -4,3 +4,8 @@ A [Neovim](https://github.com/neovim/neovim) configuration using Lua, with the m
 
 This readme exist so I don't have to remember how to do all these things when setting up a new machine.
 
+## Installation for Mac OSX
+
+* Install `nvim`, use `homebrew`
+* Checkout this repository under your `~/.config/nvim`
+* Restart `nvim`
